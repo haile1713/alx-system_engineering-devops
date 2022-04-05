@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Xx\n" $DECIMAL
+echo "Xx\n" $DECIMAL
